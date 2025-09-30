@@ -1,0 +1,8 @@
+ultralytics
+Pillow
+python-multipart
+python-telegram-bot==20.4
+requests
+python-dotenv
+fastapi
+uvicorn[standard]
