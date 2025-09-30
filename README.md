@@ -10,7 +10,7 @@
 
 ```bash
 git clone https://github.com/bor-be/face_emotion_tg.git
-cd face_emotion_tg
+cd face_emotion_tg```
 
 ```
 2. Создай файл .env с переменными:
@@ -19,3 +19,4 @@ cd face_emotion_tg
 ```
 3. Запуск через Docker Compose
 docker-compose up --build
+```
